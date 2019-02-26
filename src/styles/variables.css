@@ -1,0 +1,19 @@
+$baseSize: 8px;
+
+/* Font Sizes */
+$standardInputFontSize: 16px;
+
+/* Colors */
+$lightBlue: #add8e6;
+
+$red: red;
+
+$white:#fff;
+
+$gray:#666;
+$grayLight: #3e3e3e;
+$grayDark: #212121;
+
+$maroon:#a10000;
+/* Font Family */
+$arialFont: Arial;
