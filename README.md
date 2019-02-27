@@ -3,7 +3,7 @@
 ### Usage
 
 ```
-git clone {URL BITBUCKET URL TO REPO}
+git clone {URL GITHUB URL TO REPO}
 npm install
 npm start
 open http://localhost:8080  (should start automatically )
